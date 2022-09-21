@@ -1,4 +1,4 @@
 # Pong
-Simple Pong game created with turtles in Python3
+Pong game created with in Python
 
 > Experiment to experience GUIs with python
